@@ -1,6 +1,6 @@
+---
+---
 # Contributing
-
-## How to Contribute
 
 * QA checks
 * Bug hunting

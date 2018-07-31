@@ -1,5 +1,3 @@
-{% method %}
-
 ### mangapress_comic_navigation($args, $echo)
 
 Generates an unordered list of links for navigating between comic posts. Should be used inside a loop.
@@ -18,12 +16,12 @@ Generates an unordered list of links for navigating between comic posts. Should 
 * `$link_before`: Content before navigation link (but inside tag specified by `$link_wrap`).
 * `$link_after`: Content after navigation link (but inside tag specified by `$link_wrap`).
 
-{% sample lang="php" -%}
+
 #### Example
 Short example of using `mangapress_comic_navigation()`:
 ```php
 <div class="container">
-    <?php if (have_posts()): ?> 
+    <?php if (have_posts()): ?>
 
         <div class="hfeed">
         <?php while (have_posts()): the_post() : ?>
@@ -36,12 +34,11 @@ Short example of using `mangapress_comic_navigation()`:
                 <div class="entry-content">
                     <?php the_post_thumbnail(); ?>
                 </div>
-            </div>            
+            </div>
 
-        <?php endwhile; ?> 
+        <?php endwhile; ?>
         </div>
 
-    <?php endif; ?>    
+    <?php endif; ?>
 </div>
 ```
-{% endmethod %}

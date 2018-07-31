@@ -1,9 +1,10 @@
-# Introduction
+---
+---
 
 ## Guides
 
-* [Frequently Asked Questions](guides/frequently-asked-questions.md)
 * [Contributing](guides/contributing.md)
+* [Frequently Asked Questions](guides/frequently-asked-questions.md)
 
 ## Getting Started
 

@@ -1,4 +1,3 @@
-{% method %}
 ### mangapress_archive_gallery_style
 
 Filter for modifying default embedded CSS stylesheet for the Archive Gallery.
@@ -61,4 +60,3 @@ Default CSS styles \(use in your own stylesheet\):
     white-space: nowrap;
 }
 ```
-{% endmethod %}

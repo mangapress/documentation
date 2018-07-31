@@ -1,3 +1,5 @@
+---
+---
 # Frequently Asked Questions
 
 ## _I'm using the bundled theme for TwentyEleven, -Twelve, or -Thirteen but the Custom CSS and/or Insert Navigation options have no effect? Or they add a second navigation bar_

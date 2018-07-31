@@ -1,4 +1,3 @@
-{% method %}
 ### mangapress_start_latest_comic()
 Starts a Latest Comic loop. See [mangapress_end_latest_comic()](//mangapress-end-latest-comic.md)
 
@@ -9,10 +8,10 @@ None
 ```php
 <?php mangapress_start_latest_comic(); ?>
 ```
-{% sample lang="php" -%}
+
 #### Example
 ```php
-<?php    
+<?php
     mangapress_start_latest_comic();
 
     if (have_posts()) :
@@ -26,5 +25,3 @@ None
     mangapress_end_latest_comic();
 ?>
 ```
-{% endmethod %}
-

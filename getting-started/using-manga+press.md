@@ -1,3 +1,5 @@
+---
+---
 # Using Manga+Press
 
 Before reading this guide, make sure to read [Configuring Manga+Press](configuring-manga+press.md) and [Theme Customization](theme-customization.md) first.

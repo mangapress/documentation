@@ -1,3 +1,5 @@
+---
+---
 # Configuring Manga+Press
 
 Instructions on configuring Manga+Press are intended for working with the provided child-themes for TwentyEleven, -Twelve, -Thirteen, -Fourteen, and -Fifteen. Other third-party themes may require additional adjustment.

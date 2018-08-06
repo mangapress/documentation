@@ -12,7 +12,8 @@
 
 Manga+Press leverages WordPress' functionality as much as possible for seamless integration with themes.
 However, issues can still come up. Download and install the plugin. Test against freely available 3rd party themes,
-or popular free plugins. I presently do not support premium themes or plugins.
+or popular free plugins. Bugs can be documented either through my [support form](https://manga-press.com/support/), on the [WordPress Forums](https://wordpress.org/support/plugin/mangapress), or through [GitHub](https://github.com/mangapress/mangapress/issues).
+I presently do not support premium themes or plugins.
 
 ### Bug hunting
 
@@ -27,4 +28,5 @@ Feature requests can be submitted [here](https://manga-press.com/support/).
 ### Providing i18l support
 
 Finally, the biggest area that help is needed in is multi-language support. Currently, Manga+Press has a Spanish-language version
-but I am not a native Spanish speaker, and I'm relying on Google translate
+but I am not a native Spanish speaker, and I'm relying on Google Translate, which probably isn't a good idea. Any help from the
+community would be greatly appreciated!

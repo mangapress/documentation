@@ -1,3 +1,5 @@
+[Home]({{site.baseurl}}/)
+
 ## Guides
 
 * [Contributing]({{site.baseurl}}/guides/contributing.html)
@@ -43,3 +45,5 @@
 * [save_post_mangapress_comic]({{site.baseurl}}/developer-api/actions/savepost-mangapresscomic.html)
 * [latest_comic_start]({{site.baseurl}}/developer-api/actions/latestcomic-start.html)
 * [latest_comic_end]({{site.baseurl}}/developer-api/actions/latestcomic-end.html)
+
+[Changelog]({{site.baseurl}}/CHANGELOG.html)

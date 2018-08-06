@@ -21,7 +21,7 @@ title-separator: "-"
 
 # Output options (more information on Jekyll's site)
 timezone: "America/Chicago"
-markdown: markdown
+markdown: kramdown
 highlighter: rouge
 
 defaults:
@@ -33,7 +33,6 @@ defaults:
 
 # Exclude these files from production site
 exclude:
-- CHANGELOG.md
 - CNAME
 - Dockerfile
 - Gemfile

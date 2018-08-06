@@ -24,11 +24,11 @@ Start by entering a title for your comic, then to add the image click on the **S
 
 \*If you're intending to organize your comic by categories \(ie: Series taxonomy\), then either select or add a new category using the Series meta-box in the right sidebar.
 
-Click the **Publish** button\_, \_or click the **Edit** link next to **Publish Immediately** to schedule the comic post to be published at a later date. More info on scheduling posts: [WordPress.com: Schedule A Post.](http://en.support.wordpress.com/posts/schedule-a-post/)
+Click the **Publish** button, or click the **Edit** link next to **Publish Immediately** to schedule the comic post to be published at a later date. More info on scheduling posts: [WordPress.com: Schedule A Post.](http://en.support.wordpress.com/posts/schedule-a-post/)
 
 Repeat the above process until you have a group of comics.
 
-\*Depending which options are chosen in Manga+Press settings, this will have an impact on comic navigation. See [Configuring Manga+Press: Configure Category Grouping](https://mangapress.github.io/documentation/Configuring-Manga-Press#configure-category-grouping) for more information.
+\*Depending which options are chosen in Manga+Press settings, this will have an impact on comic navigation. See [Configuring Manga+Press: Configure Category Grouping]({{site.baseurl}}/getting-started/configuring-manga+press.html#configure-category-grouping) for more information.
 
 #### Editing and Removing Comics
 
@@ -38,5 +38,5 @@ Clicking on the **Trash** link \(which appears when you hover over the title\) w
 
 ### Organizing Your Comics with the Series Taxonomy
 
-Comics can be ordered by category, just like regular WordPress posts. However, for Comics we have a custom taxonomy labeled "Series," which works like the default WordPress category taxonomy. Using this taxonomy, you can group your comics according to chapters, issues, or even serials. Using the Series taxonomy can also control how you navigate between each comic. The [Configure Category Grouping](https://mangapress.github.io/documentation/Configuring-Manga-Press#configure-category-grouping) section of the Configuring Manga+Press guide offers more information on comic organization and how navigation behaves between categories.
+Comics can be ordered by category, just like regular WordPress posts. However, for Comics we have a custom taxonomy labeled "Series," which works like the default WordPress category taxonomy. Using this taxonomy, you can group your comics according to chapters, issues, or even serials. Using the Series taxonomy can also control how you navigate between each comic. The [Configure Category Grouping]({{site.baseurl}}/getting-started/configuring-manga+press.html#configure-category-grouping) section of the Configuring Manga+Press guide offers more information on comic organization and how navigation behaves between categories.
 

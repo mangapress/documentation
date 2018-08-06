@@ -15,13 +15,14 @@ blue      #268bd2  reserved keywords
 cyan      #2aa198  strings, numbers
 green     #859900  operators, other keywords
 */
-
-.highlight {
-    background-color: #002b36;
-    color: #93a1a1;
-    padding: 20px;
-    border-radius: 5px;
-    box-shadow: 1px 1px 2px;
+.highlighter-rouge {
+    > .highlight {
+        background-color: #002b36;
+        color: #93a1a1;
+        padding: 20px;
+        border-radius: 5px;
+        box-shadow: 1px 1px 2px;
+    }
 }
 
 .highlight .c {

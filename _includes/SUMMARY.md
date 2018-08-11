@@ -38,12 +38,29 @@
 * [mangapress_archive_gallery_style]({{site.baseurl}}/developer-api/filters/mangapressarchive-gallery-style.html)
 * [mangapress_options_fields]({{site.baseurl}}/developer-api/filters/mangapressoption-fields.html)
 * [mangapress_comic_front_slug]({{site.baseurl}}/developer-api/filters/mangapresscomic-front-slug.html)
-* [the_latest_comic_content_error]({{site.baseurl}}/developer-api/filters/thelatest-comic-content-error.html)
-* [the_comicarchive_content_error]({{site.baseurl}}/developer-api/filters/thecomicarchive-content-error.html)
+* [the_latest_comic_content_error]({{site.baseurl}}/developer-api/filters/thelatest-comic-content-error.html) **deprecated**
+* [the_comicarchive_content_error]({{site.baseurl}}/developer-api/filters/thecomicarchive-content-error.html) **deprecated**
 
 ## Actions
+* [mangapress_after_plugin_activation]({{site.baseurl}}/developer-api/actions/mangapress-after-plugin_activation.html)
+* [mangapress_get_template_part_{$slug}]({{site.baseurl}}/developer-api/actions/mangapress-get-template-part-slug.html)
+* [mangapress_theme_compatible-{$theme}]()
+* [mangapress_before_content]()
+* [mangapress_after_content]()
+* [mangapress_before_comic_loop]()
+* [mangapress_after_comic_loop]()
+* [mangapress_before_archive_comic_loop]()
+* [mangapress_after_archive_comic_loop]()
+* [mangapress_archive_style_opening_tag]()
+* [mangapress_archive_style_template]()
+* [mangapress_archive_style_closing_tag]()
+* [mangapress_sidebar]()
+* [mangapress_after_latest_comic]()
+* [mangapress_before_latest_comic]()
+* [mangapress_before_latest_comic_loop]()
+* [mangapress_after_latest_comic_loop]()
 * [save_post_mangapress_comic]({{site.baseurl}}/developer-api/actions/savepost-mangapresscomic.html)
-* [latest_comic_start]({{site.baseurl}}/developer-api/actions/latestcomic-start.html)
-* [latest_comic_end]({{site.baseurl}}/developer-api/actions/latestcomic-end.html)
+* [latest_comic_start]({{site.baseurl}}/developer-api/actions/latestcomic-start.html) **deprecated**
+* [latest_comic_end]({{site.baseurl}}/developer-api/actions/latestcomic-end.html) **deprecated**
 
 [Changelog]({{site.baseurl}}/CHANGELOG.html)
